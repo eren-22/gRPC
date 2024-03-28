@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "zZizIA36SmDJxVus3qdK4goa0mTzj/O+U7lh4C01YJY=",
+  "Source": "grpcServer",
+  "BasePath": "_content/grpcServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "grpcServer\\wwwroot",
+      "Source": "grpcServer",
+      "ContentRoot": "C:\\Users\\eren1\\OneDrive\\Masaüstü\\CSharpProjects\\gRPC\\grpcServer\\wwwroot\\",
+      "BasePath": "_content/grpcServer",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
